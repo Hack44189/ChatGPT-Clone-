@@ -24,15 +24,11 @@ This is a clean and interactive AI chatbot website inspired by OpenAI's ChatGPT.
 
 ---
 
-## 📷 Demo
-
-![Chatbot UI Screenshot](screenshot.png)
-
 ---
 
 ## 🔧 How to Use
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/chatgpt-style-chatbot.git
+   https://github.com/Hack44189/ChatGPT-Clone-.git
    cd chatgpt-style-chatbot
